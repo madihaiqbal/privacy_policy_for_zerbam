@@ -72,5 +72,9 @@ We may update our Privacy Policy from time to time. You will be notified of any 
 
 If you have any questions about this Privacy Policy or how we handle your data, please contact us at:
 
-**Madiha Iqbal**  
+**ZerBám**  
+Email: [zerbam3@gmail.com](mailto:zerbam3@gmail.com)
+
+
 Email: [madihaiqbal606@gmail.com](mailto:madihaiqbal606@gmail.com)
+
