@@ -1,63 +1,64 @@
-# Privacy Policy
+ZerBám is committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and protect your information when you use our mobile application. By using our app, you agree to the collection and use of information in accordance with this policy.
 
-Whispering Hope is committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and protect your information when you use our mobile application. By using our app, you agree to the collection and use of information in accordance with this policy.
+## 1. Information We Collect  
 
-## 1. Information We Collect
+### a. Personal Information  
+We collect personal information that you provide when creating a user profile. This may include:  
+- Email address  
+- Date of birth  
+- Socioeconomic status  
+- Birth order  
+- Gender  
+- Relationship status  
+- Education level  
 
-### a. Personal Information
+Your email and password are encrypted and securely stored. We do not share this information with any third party, nor do we use it for any form of marketing purposes. The following information including Date of birth, Socioeconomic status, Birth order, Gender, Relationship status, and Education level may be used for analysis without revealing your identity.  
 
-We collect personal information that you provide when creating a user profile. This may include:
-- Email address
-- Phone number
-- Date of birth
-- Socioeconomic status
-- Birth order
-- Gender
-- Relationship status
+### b. Assessment Data  
+Our app includes self-evaluation tools, such as:  
+- Patient Health Questionnaire (PHQ)  
+- Rosenberg Self-Esteem Scale (RSE)  
+- Generalized Anxiety Disorder (GAD-7)  
 
-All personal information, such as your email, phone number, and other profile data, is encrypted and securely stored. We do not share this information with any third party, nor do we use it for any form of analysis or marketing purposes.
+When you complete these assessments, we collect the responses you provide. The purpose of collecting this data is:  
+- To analyze depression, anxiety, and self-esteem levels.  
+- To improve the effectiveness of our app through data-driven insights and interventions.  
+- To build machine learning models for personalized and predictive insights.  
 
-### b. Assessment Data
+This data may also be used in aggregated and anonymized form for research and general mental health insights.  
 
-Our app includes self-evaluation tools, such as:
-- Beck Anxiety Inventory (BAI)
-- Patient Health Questionnaire (PHQ)
-- Rosenberg Self-Esteem Scale (RSE)
+### c. Daily Journal  
+Daily Journal entries are encrypted and securely stored. They are not used for analysis or any external purpose. These entries remain private to you and are not shared with third parties.  
 
-When you complete these assessments, we collect the responses provided by you. The purpose of collecting this data is:
-- To analyze depression, anxiety self-esteem severity levels.
-- To improve the effectiveness of our app through data-driven insights and interventions.
+### d. Self-Care Tools (Guided CBT Activities)  
+When you use the Self-Care tools, your entries are collected to support your self-help journey. These entries may, in the future, be used in an anonymized and non-identifiable way to help train and improve the **ZerBam chatbot**. They will not be used for any other purpose and will never compromise your personal identity.  
 
-This data is used for building machine learning models to make our app more personalized and responsive to the mental health needs of users. It may also be used to develop general mental health insights for research purposes.
+## 2. How We Use Your Information  
+We use the data you provide for the following purposes:  
+- **User Profiles**: Your email and password are encrypted and used only for account management. Profile data (such as date of birth, gender, socioeconomic status, etc.) may be used for analysis, but always in anonymized form without personal identifiers.  
+- **Mental Health Assessments**: Used to evaluate your mental health status, build predictive models, and develop interventions within the app.  
+- **Self-Care Entries**: Support your CBT activities and may, in the future, be used anonymously to improve the ZerBam chatbot.  
+- **Research & App Improvement**: Data is aggregated and anonymized for improving assessments and interventions. No personal or identifiable information is shared externally.  
 
-## 2. How We Use Your Information
+## 3. Data Security  
+We take the security of your information seriously and employ technical and organizational measures, including:  
+- Encryption of sensitive information (emails, passwords, journal entries).  
+- Secure storage of assessment and self-care data.  
+- Controlled access to personal data, restricted to authorized personnel only.  
 
-We use the data you provide for the following purposes:
-- **User Profiles**: The personal information (email, phone number, date of birth, gender, socioeconomic status, birth order, relationship status) you provide during registration is encrypted and used solely for account management and communication related to the app. When we use profile data for analysis, all identifying information (such as email address and phone number) will be excluded, and the analysis will be conducted on anonymized data to protect your privacy.
-- **Mental Health Assessments**: Your responses to the self-evaluation assessments are used to:
-  - Evaluate your mental health status (e.g., anxiety, depression).
-  - Build machine learning models aimed at predicting mental health conditions.
-  - Develop interventions within the app based on aggregated and anonymized data.
-- **Research & App Improvement**: The primary purpose of the app is to collect data to refine the assessments and develop a data-driven intervention platform. No personal data will be shared publicly or with third-party entities, and all assessment data is anonymized when used for research purposes.
+While we strive to use industry-standard methods to protect your information, no method of transmission or electronic storage is 100% secure.  
 
-## 3. Data Security
+## 4. Third-Party Services  
+We do not sell, share, or transfer your personal or assessment data to third parties for marketing or advertising. All data is used solely to support app functionality, internal research, and future improvements of the ZerBam platform.  
 
-We take the security of your information seriously and employ various technical and organizational measures to protect your data, including:
-- Encryption of sensitive information such as email addresses and phone numbers.
-- Secure storage of assessment data.
-- Controlled access to personal data, ensuring that only authorized personnel can access it.
+## 5. Purpose of Data Collection  
+The primary purpose of the app is to:  
+- Provide early detection and monitoring through assessments.  
+- Offer a personalized dashboard for progress tracking.  
+- Support reflection through secure journaling.  
+- Deliver self-care tools (guided CBT activities).  
 
-Despite our efforts, no method of transmission over the internet or electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee absolute security.
-
-## 4. Third-Party Services
-
-We do not share your personal information with third-party services. All data collected is used solely for the purposes of improving the app and conducting internal research. No personal or assessment data is sold or shared with third parties for marketing or advertising purposes.
-
-## 5. Purpose of Data Collection
-
-The primary purpose of the app is to provide mental health assessments to users and collect data for the development of machine learning models. The goal of these models is to enable early intervention and personalized insights for users facing mental health challenges, particularly those who may not have access to professional help due to societal stigma or financial barriers.
-
-We aim to create a supportive platform for individuals who cannot seek professional mental health assistance, providing resources and assessments to help monitor and manage their well-being.
+Data may also contribute to the development of machine learning models and the future ZerBam chatbot, always in anonymized form and never compromising your identity.  
 
 ## 6. Cookies and Tracking Technologies
 
