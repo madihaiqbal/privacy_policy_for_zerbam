@@ -12,7 +12,7 @@ We collect personal information that you provide when creating a user profile. T
 - Relationship status  
 - Education level  
 
-Your email and password are encrypted and securely stored. We do not share this information with any third party, nor do we use it for any form of marketing purposes. The following information including Date of birth, Socioeconomic status, Birth order, Gender, Relationship status, and Education level may be used for analysis without revealing your identity.  
+Your personal data is encrypted and securely stored. We do not share this information with any third party, nor do we use it for any form of marketing purposes. The following information including Date of birth, Socioeconomic status, Birth order, Gender, Relationship status, and Education level may be used for analysis without revealing your identity.  
 
 ### b. Assessment Data  
 Our app includes self-evaluation tools, such as:  
@@ -25,12 +25,9 @@ When you complete these assessments, we collect the responses you provide. The p
 - To improve the effectiveness of our app through data-driven insights and interventions.  
 - To build machine learning models for personalized and predictive insights.  
 
-This data may also be used in aggregated and anonymized form for research and general mental health insights.  
+This data may also be used in aggregated and anonymized form for research and general mental health insights.   
 
-### c. Daily Journal  
-Daily Journal entries are encrypted and securely stored. They are not used for analysis or any external purpose. These entries remain private to you and are not shared with third parties.  
-
-### d. Self-Care Tools (Guided CBT Activities)  
+### c. Self-Care Tools (Guided CBT Activities)  
 When you use the Self-Care tools, your entries are collected to support your self-help journey. These entries may, in the future, be used in an anonymized and non-identifiable way to help train and improve the **ZerBam chatbot**. They will not be used for any other purpose and will never compromise your personal identity.  
 
 ## 2. How We Use Your Information  
@@ -42,7 +39,7 @@ We use the data you provide for the following purposes:
 
 ## 3. Data Security  
 We take the security of your information seriously and employ technical and organizational measures, including:  
-- Encryption of sensitive information (emails, passwords, journal entries).  
+- Encryption of sensitive information.  
 - Secure storage of assessment and self-care data.  
 - Controlled access to personal data, restricted to authorized personnel only.  
 
