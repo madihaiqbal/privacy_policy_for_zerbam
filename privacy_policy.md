@@ -71,7 +71,3 @@ If you have any questions about this Privacy Policy or how we handle your data, 
 
 **ZerBám**  
 Email: [zerbam3@gmail.com](mailto:zerbam3@gmail.com)
-
-
-Email: [madihaiqbal606@gmail.com](mailto:madihaiqbal606@gmail.com)
-
