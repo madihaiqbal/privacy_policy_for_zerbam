@@ -1,4 +1,4 @@
-ZerBám is committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and protect your information when you use our mobile application. By using our app, you agree to the collection and use of information in accordance with this policy.
+ZerBam is committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and protect your information when you use our mobile application. By using our app, you agree to the collection and use of information in accordance with this policy.
 
 ## 1. Information We Collect  
 
@@ -57,17 +57,32 @@ The primary purpose of the app is to:
 
 Data may also contribute to the development of machine learning models and the future ZerBam chatbot, always in anonymized form and never compromising your identity.  
 
-## 6. Cookies and Tracking Technologies
+## 6. Account and Data Deletion
+
+ZerBam respects user privacy and data ownership. While data collected on ZerBam is processed in an anonymized format, you retain the right to request the complete deletion of your user account and any associated identifiers.
+
+### How to Request Account Deletion
+Because ZerBam does not currently offer an automated in-app deletion button, account deletion requests are handled directly by our support team.
+
+To request account and data deletion:
+1. Send an email to **zerbam3@gmail.com** (or your designated support email) with the subject line: `Account Deletion Request - ZerBam`.
+2. Provide the email address associated with your ZerBam account so we can verify account ownership.
+
+### Processing & Data Retention
+* **Account Removal:** Upon receiving and verifying your request, your user credentials, profile records, and account identifiers will be permanently deleted from our active systems within **30 days**.
+* **Anonymized Data:** Aggregate, fully non-identifiable statistical data used strictly for platform improvement may be retained, as it cannot be linked back to individual users.
+
+## 7. Cookies and Tracking Technologies
 
 We do not use cookies or other tracking technologies to collect personal information about your usage of the app.
 
-## 7. Changes to This Policy
+## 8. Changes to This Policy
 
 We may update our Privacy Policy from time to time. You will be notified of any changes by an update in the app or via email. Changes will be effective as soon as they are posted in the app.
 
-## 8. Contact Us
+## 9. Contact Us
 
 If you have any questions about this Privacy Policy or how we handle your data, please contact us at:
 
-**ZerBám**  
+**ZerBam**  
 Email: [zerbam3@gmail.com](mailto:zerbam3@gmail.com)
